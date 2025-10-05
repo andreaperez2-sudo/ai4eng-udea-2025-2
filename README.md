@@ -4,7 +4,7 @@
 
 - **Andrea Pérez Domínguez** — **Cédula:** 1037661887 — **Programa:** Ingeniería Industrial
 - **Bryan Giraldo Quintero** — **Cédula:** 1152457551 — **Programa:** Ingeniería en Sistemas
-- **Nicolle Serna Trespalacios** — **Cédula:** 1001505960 — **Programa:** Ingenieraría Ambiental
+- **Nicolle Serna Trespalacios** — **Cédula:** 1001505960 — **Programa:** Ingeniería Sanitaria
 
 ## Entrega 1
 - Archivo: `01 - exploración.ipynb`
