@@ -3,8 +3,8 @@
 ## Equipo
 
 - **Andrea Pérez Domínguez** — **Cédula:** 1037661887 — **Programa:** Ingeniería Industrial
-- **(Opcional)** — **Cédula:** 0000000000 — **Programa:** ________
-- **(Opcional)** — **Cédula:** 0000000000 — **Programa:** ________
+- **Bryan Giraldo Quintero** — **Cédula:** 1152457551 — **Programa:** Ingeniería en Sistemas
+- **Nicolle Serna Trespalacios** — **Cédula:** 1001505960 — **Programa:** Ingenieraría Ambiental
 
 ## Entrega 1
 - Archivo: `01 - exploración.ipynb`
