@@ -19,4 +19,4 @@
 - Normalización de variables numéricas.  
 - Eliminación de atributos redundantes.  
 **Video explicativo (YouTube):**  
-[Enlace al video de la Entrega 2](https://www.youtube.com/)  
+[Enlace al video de la Entrega 2](https://youtu.be/GNcdxSJlxgM)  
