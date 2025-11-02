@@ -18,4 +18,5 @@
 - Codificación de variables categóricas (One-Hot, Label Encoding).  
 - Normalización de variables numéricas.  
 - Eliminación de atributos redundantes.  
-- Video: 
+**Video explicativo (YouTube):**  
+[Enlace al video de la Entrega 2](https://www.youtube.com/)  
