@@ -9,3 +9,13 @@
 ## Entrega 1
 - Archivo: `01 - exploración.ipynb`
 - Objetivo: Demostrar que se puede **cargar `train.csv`** de la competencia y realizar una **exploración básica** (conteos, inspección de columnas, valores faltantes, etc.).
+
+## Entrega 2
+- Archivo: `02 - preprocesado.ipynb`
+- Objetivo: Limpieza y transformación del dataset para su uso en modelos de aprendizaje automático.  
+**Principales acciones:**
+- Imputación de valores faltantes.  
+- Codificación de variables categóricas (One-Hot, Label Encoding).  
+- Normalización de variables numéricas.  
+- Eliminación de atributos redundantes.  
+- Video: 
