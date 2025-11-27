@@ -30,5 +30,6 @@ Principales acciones:
 - Eliminación de columnas constantes y cuasi-constantes para optimizar el rendimiento.
 - Entrenamiento del modelo final mediante Random Forest optimizado para trabajar con el gran volumen de datos.
 - Generación del archivo de predicciones (submission.csv) utilizado en el envío oficial a Kaggle.
+
 **Video explicativo (YouTube):**  
 [Enlace al video de la Entrega 2]()  
