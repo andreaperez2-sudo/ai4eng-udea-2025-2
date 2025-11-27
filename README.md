@@ -32,4 +32,4 @@ Principales acciones:
 - Generación del archivo de predicciones (submission.csv) utilizado en el envío oficial a Kaggle.
 
 **Video explicativo (YouTube):**  
-[Enlace al video de la Entrega 2]()  
+[Enlace al video de la Entrega 3]()  
